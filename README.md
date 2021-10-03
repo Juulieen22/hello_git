@@ -1,2 +1,1 @@
-# Hello Git - Enigma
-\Merge chapter
+# Hello - Enigma
